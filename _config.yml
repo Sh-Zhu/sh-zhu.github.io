@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuai Zhu"
   avatar           : "profile_shzh.png"
-  bio              : "Make time for civilization, for civilization won't make time."
+  bio              : "Make time for civilization."
   location         : "Helsinki, Finland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mrzhush@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E5%B8%85-%E6%9C%B1-486435191/?locale=en_US"
+  linkedin         : "www.linkedin.com/in/sh-zhu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
