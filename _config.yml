@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+m# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Finland"
-title                    : "Shuai Zhu / Site Title"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Shuai Zhu"
 description              : &description "Master Student at Aalto University && KTH Royal Institute of Technology "
