@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website sh-zhu
+TBC
 
 Education
 ======
-
+TBC
 
 Work experience
 ======
-
+TBC
 
 Honors
 ======
-
+TBC
 
 Others
 ------
+TBC
