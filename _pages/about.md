@@ -31,15 +31,7 @@ Work experience
 * **vivo Mobile Communication Co.,Ltd, Shenzhen, China, (Jul. 2015 - Jun. 2018)**
 	* Software Engineer
 
-Honors
-======
-*  EIT Digital Scholarshi
-*  vivo Monthly Outstanding Employee
-*  National Encouragement Scholarship
-*  Southeast University outstanding Student Leader
-*  3rd Prize in Southeast University 10th RoboCup Robotics Competition
-*  2nd Prize in Southeast University Advanced Mathematics Competition
-*  Southeast University Outstanding Student
+
 
 Others
 ------
