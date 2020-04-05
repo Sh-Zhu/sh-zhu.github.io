@@ -34,14 +34,11 @@ Work experience
 Patents
 ======
 * **Granted**
-	* CN106791179A Control method and mobile terminal of a kind of mute state
-  * [See patent](https://worldwide.espacenet.com/patent/search/family/058944602/publication/CN106791179A?q=CN106791179A&called_by=epo.org)
-  	* CN106686252B Incoming call processing method and mobile terminal
-  * [See patent](https://worldwide.espacenet.com/patent/search/family/058861401/publication/CN106686252A?q=CN106686252B&called_by=epo.org)
+	* CN106791179A Control method and mobile terminal of a kind of mute state. [See patent](https://worldwide.espacenet.com/patent/search/family/058944602/publication/CN106791179A?q=CN106791179A&called_by=epo.org)
+  	* CN106686252B Incoming call processing method and mobile terminal. [See patent](https://worldwide.espacenet.com/patent/search/family/058861401/publication/CN106686252A?q=CN106686252B&called_by=epo.org)
   
 * **Pending**
-	* 1
-  * [See patent]
+	* TBC. [See patent]
   
 Others
 ------
