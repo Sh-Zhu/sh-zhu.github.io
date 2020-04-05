@@ -14,7 +14,7 @@ Education
 ======
 * **Aalto University, Finland (Aug 2019 - Now)**
 	* Master student
-  * Intelligent Autonomous System
+  	* Intelligent Autonomous System
   
 * **KTH Royal Institute of Technology, Sweden (Aug. 2020 - )**
 	* Master student
@@ -35,10 +35,11 @@ Patents
 ======
 * **Granted**
 	* CN106791179A Control method and mobile terminal of a kind of mute state. [See patent](https://worldwide.espacenet.com/patent/search/family/058944602/publication/CN106791179A?q=CN106791179A&called_by=epo.org)
-  	* CN106686252B Incoming call processing method and mobile terminal. [See patent](https://worldwide.espacenet.com/patent/search/family/058861401/publication/CN106686252A?q=CN106686252B&called_by=epo.org)
+  	
+	* CN106686252B Incoming call processing method and mobile terminal. [See patent](https://worldwide.espacenet.com/patent/search/family/058861401/publication/CN106686252A?q=CN106686252B&called_by=epo.org)
   
 * **Pending**
-	* TBC. [See patent]
+	* TBC. 
   
 Others
 ------
