@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+#* B.S. in GitHub, GitHub University, 2012
+#* M.S. in Jekyll, GitHub University, 2014
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Aalto University, Espoo, Finland (Aug 2019 - Current)**
+	* Master student in Intelligent Autonomous System
+  
+* **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - )**
+	* Master student in Intelligent Autonomous System
+  
+*  **Southeast University, Nanjing, China (Aug. 2011 - Jun. 2015)**
+	* B.E., Computer Science & Tecnology
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ** Summer 2020: Research Assistant**
+  * Aalto University, Finland
+  * Duties included: Distance-aware 2D barcode
+  * Supervisor: Professor Mario Di Francesco
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Jul. 2015 - May. 2018: Software Engineer**
+  * vivo Mobile Communication Co.,Ltd, China
+  * Duties included: Android Application Development && Android Framework Development
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+* Android
+  * Android SDK
+  * Android Framework
 
 Publications
 ======
