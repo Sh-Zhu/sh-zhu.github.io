@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am always eager to learn new knowledge and challenge myself. I had been a software engineer for three years. My programming skills, teamwork ability and problems solving ability have been greatly improved during that period. Amazed by the rapid development of digital society, I decided to further my studies to keep abreast of the times. Now, I am an ongoing Master student of the EIT Digital programme, which combines cutting-edge technical fields, such as artificial intelligence and robotics, with a strong focus on developing skills in innovation and entrepreneurship. I believe that I will be a fuller and better person after completing the study.
+Being born in China, having studied & worked in China & Finland and currently based in Sweden, as a student of the EIT program, I am doing the second year of my M.Sc. study in Intelligent Autonomous Systems.
+
+I am interested in applications of Artificial Intelligence, especially in the mobile platform which could benefit as many individual users as possible. I have hand-on experience in AI (machine learning, deep learning, reinforcement learning), parallel computing and mobile development. Meanwhile, I am studying web application development. My career goal now is to be a full-stack developer with AI background.
 
 Education
 ======
