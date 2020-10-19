@@ -11,7 +11,7 @@ redirect_from:
 
 * **Education**
 ======
- * **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - )**
+ * **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - Current)**
 	* Master student in Intelligent Autonomous System
 	
 * **Aalto University, Espoo, Finland (Aug 2019 - Current)**
@@ -55,25 +55,3 @@ Patents
 Others
 ------
 TBC
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
