@@ -15,11 +15,13 @@ redirect_from:
 	* Master student in Intelligent Autonomous System
 	
 * **Aalto University, Espoo, Finland (Aug 2019 - Current)**
-	* Master student in Intelligent Autonomous System
-
+	* Master student in Intelligent Autonomous System, GPA of Major: 4.58/5
+	* Courses mainly in Advanced Computer Science and Robotics.
+	* Advanced Computer Science: Machine Learning, Deep Learning, Advanced Course in Algorithms, Programming Parallel Computers etc.
+	* Robotics: Robotics, Digital and Optimal Control, Modelling, Estimation and Dynamic Systems etc.
 *  **Southeast University, Nanjing, China (Aug. 2011 - Jun. 2015)**
-	* B.E., Computer Science & Tecnology
-	* Courses mainly consist of Computer Science and Fundamental Mathematics
+	* B.E., Computer Science & Tecnology, GPA: 3.39/4
+	* Courses mainly in Computer Science and Fundamental Mathematics
 	* Fundamentals Computer Science courses: Fundamentals of Programming, Data Structures, Fundamentals of Algorithmic Design, Operating System, Software Engineering, Computer Organization & Architecture and Introduction to Computer Network etc..
 	* Advanced Computer Science courses: Computer Architecture, Principle of Database, Artificial Intelligence and Pattern Recognition. 
 	* Fundamental Mathematics courses: Advanced Mathematics, Geometry & Algebra, Discrete Structure, Probability & Mathematical Statictics, Operations Research etc.
@@ -27,7 +29,7 @@ redirect_from:
 ======
 * **Aalto University, Finland: Research Assistant**
   * Summer 2020
-  * Duties included: Distance-aware 2D barcode
+  * Designed and developed an ML-based decoding method for distance-aware barcodes on mobile devices
   * Supervisor: Professor Mario Di Francesco
 
 * **vivo Mobile Communication Co.,Ltd, China: Software Engineer**
