@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This patent was granted in 01-09-2020'
 date: 01-09-2020
-venue: ''
+venue: '01.09'
 paperurl: 'https://worldwide.espacenet.com/patent/search/family/062887370/publication/CN108322599A?q=CN108322599A'
 citation: 'Shuai Zhu, S.Z. (2015). &quot;Network Access Method and mobile terminal.'
 ---
