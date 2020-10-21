@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+#Education
+#Work Experience
+#Project
+#Licenses & certifications
+#Skills
 
 * **Education**
 ======
