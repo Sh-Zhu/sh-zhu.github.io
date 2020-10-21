@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
+title: "Machine Learning-based decoding method of distance-aware barcodes"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Designed and developed an ML-based decoding method for distance-aware barcodes on mobile devices, which is 5 times faster than the previous method.
