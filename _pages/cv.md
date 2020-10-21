@@ -4,7 +4,7 @@ title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Education
 ---
 {% include base_path %}
 
