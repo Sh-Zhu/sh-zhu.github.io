@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Network Access Method and mobile terminal"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This patent was granted in 01-09-2020'
+date: 01-09-2020
+venue: ''
+paperurl: 'https://worldwide.espacenet.com/patent/search/family/062887370/publication/CN108322599A?q=CN108322599A'
+citation: 'Shuai Zhu, S.Z. (2015). &quot;Network Access Method and mobile terminal.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+The invention provides a network access method and a mobile terminal. The method comprises the following steps: running a target application program, and searching a target network priority list to which the target application program belongs in at least one preset network priority list, wherein a corresponding network access way is preset for each network priority list; and controlling the target application program to access the network through the network access way corresponding to the target network priority list. Through the network access method provided by the invention, the network access performance of the mobile terminal can be improved.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Details here](https://worldwide.espacenet.com/patent/search/family/062887370/publication/CN108322599A?q=CN108322599A)
