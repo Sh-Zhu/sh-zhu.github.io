@@ -6,13 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-#Education
-#Work Experience
-#Project
-#Licenses & certifications
-#Skills
-
 {% include base_path %}
 
 
@@ -37,7 +30,7 @@ redirect_from:
 		* Robotics courses & grades: 
 			* Modelling, Estimation and Dynamic Systems: 5/5 
 			* Digital and Optimal Control: 5/5
-			* Robotics, 4/5
+			* Robotics: 4/5
 *  **Southeast University, Nanjing, China (Aug. 2011 - Jun. 2015)**
 	* B.E., Computer Science & Tecnology, GPA: 3.39/4
 	* Courses mainly in Computer Science and Fundamental Mathematics
@@ -47,13 +40,13 @@ redirect_from:
 	
 **Work experience**
 ======
-* **Aalto University, Finland: Research Assistant**
-  * Summer 2020
+* **Research Assistant, Aalto University, Espoo, Finland**
+  * Jun. 2020 - Aug. 2020, 3 Months
   * Designed and developed an ML-based decoding method for distance-aware barcodes on mobile devices
   * Supervisor: Professor Mario Di Francesco
 
-* **vivo Mobile Communication Co.,Ltd, China: Software Engineer**
-  * Jul. 2015 - May. 2018
+* **Software Engineer, vivo Mobile Communication Co.,Ltd, Shenzhen, China**
+  * Jul. 2015 - May. 2018, 2 Years and 11 Months
   * Duties included: Android Application Development && Android Framework Development
   
 **Skills**
