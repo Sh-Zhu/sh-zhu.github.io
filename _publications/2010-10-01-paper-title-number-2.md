@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This patent was granted in 26-06-2019'
 date: 26-06-2019
-venue: ''
+venue: '26.6'
 paperurl: 'https://worldwide.espacenet.com/patent/search/family/058944602/publication/CN106791179A?q=CN106791179A&called_by=epo.org'
 citation: 'Shuai Zhu. S.Z. (2019). &quot;Control method and mobile terminal of a kind of mute state.'
 ---
