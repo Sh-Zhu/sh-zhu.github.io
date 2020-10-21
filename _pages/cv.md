@@ -18,7 +18,7 @@ redirect_from:
 
 **Education**
 ======
- * **KTH Royal Institute of Technology
++KTH Royal Institute of Technology
  -Stockholm, Sweden (Aug. 2020 - Current)**
 	* Master student in Intelligent Autonomous System
 	
