@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,14 +18,12 @@ redirect_from:
 
 **Education**
 ======
-* **KTH Royal Institute of Technology
----
- -Stockholm, Sweden (Aug. 2020 - Current)**
-	* Master student in Intelligent Autonomous System
----	
+* **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - Current)**
+	* Master student major in Intelligent Autonomous Systems
+
 * **Aalto University, Espoo, Finland (Aug 2019 - Current)**
-	* Master student in Intelligent Autonomous System, GPA of Major: 4.58/5
-	* Courses mainly in Advanced Computer Science and Robotics.
+	* Master student major in Intelligent Autonomous Systems, GPA of Major: 4.58/5
+	* +Courses mainly in Advanced Computer Science and Robotics.
 	* Advanced Computer Science: Machine Learning, Deep Learning, Advanced Course in Algorithms, Programming Parallel Computers etc.
 	* Robotics: Robotics, Digital and Optimal Control, Modelling, Estimation and Dynamic Systems etc.
 *  **Southeast University, Nanjing, China (Aug. 2011 - Jun. 2015)**
