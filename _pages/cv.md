@@ -23,9 +23,9 @@ redirect_from:
 
 * **Aalto University, Espoo, Finland (Aug 2019 - Current)**
 	* Master student major in Intelligent Autonomous Systems, GPA of Major: 4.58/5
-	* +Courses mainly in Advanced Computer Science and Robotics.
-	* Advanced Computer Science: Machine Learning, Deep Learning, Advanced Course in Algorithms, Programming Parallel Computers etc.
-	* Robotics: Robotics, Digital and Optimal Control, Modelling, Estimation and Dynamic Systems etc.
+	* Courses mainly in Advanced Computer Science and Robotics.
+		* Advanced Computer Science: Machine Learning, Deep Learning, Advanced Course in Algorithms, Programming Parallel Computers etc.
+		* Robotics: Robotics, Digital and Optimal Control, Modelling, Estimation and Dynamic Systems etc.
 *  **Southeast University, Nanjing, China (Aug. 2011 - Jun. 2015)**
 	* B.E., Computer Science & Tecnology, GPA: 3.39/4
 	* Courses mainly in Computer Science and Fundamental Mathematics
