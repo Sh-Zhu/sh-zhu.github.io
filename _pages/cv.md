@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-
-**Education**
-======
 * **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - Current)**
 	* Master student major in Intelligent Autonomous Systems
 	* Courses mainly in Advanced Computer Science:
@@ -38,16 +35,7 @@ redirect_from:
 		* Advanced Computer Science courses: Computer Architecture, Principle of Database, Artificial Intelligence and Pattern Recognition. 
 		* Fundamental Mathematics courses: Advanced Mathematics, Geometry & Algebra, Discrete Structure, Probability & Mathematical Statictics, Operations Research etc.
 	
-**Work experience**
-======
-* **Research Assistant, Aalto University, Espoo, Finland**
-  * Jun. 2020 - Aug. 2020, 3 Months
-  * Designed and developed an ML-based decoding method for distance-aware barcodes on mobile devices
-  * Supervisor: Professor Mario Di Francesco
 
-* **Software Engineer, vivo Mobile Communication Co.,Ltd, Shenzhen, China**
-  * Jul. 2015 - May. 2018, 2 Years and 11 Months
-  * Duties included: Android Application Development && Android Framework Development
   
 **Skills**
 ======
