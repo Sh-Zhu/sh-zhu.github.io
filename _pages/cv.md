@@ -36,10 +36,6 @@ redirect_from:
 		* Fundamental Mathematics courses: Advanced Mathematics, Geometry & Algebra, Discrete Structure, Probability & Mathematical Statictics, Operations Research etc.
 	
 
-  
-**Skills**
-======
-* Android development, Java, Kotlin, Python, TensorFlow, TensorFlow Lite, PyTorch, Matlab
 
 
 **Patents**
@@ -58,7 +54,4 @@ redirect_from:
 	*  CN106210297A Message processing method and mobile terminal. [See patent](https://worldwide.espacenet.com/patent/search/family/057464995/publication/CN106210297A?q=CN106210297A&called_by=epo.org)
 	*  CN106202215A Display element processing method and mobile terminal. [See patent](https://worldwide.espacenet.com/patent/search/family/057461724/publication/CN106202215A?q=CN106202215A&called_by=epo.org)
 	*  CN106126210A Application icon display method and mobile terminal. [See patent](https://worldwide.espacenet.com/patent/search/family/057470678/publication/CN106126210A?q=CN106126210A&called_by=epo.org)
-  
-Others
-------
-TBC
+
