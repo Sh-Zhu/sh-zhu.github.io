@@ -7,14 +7,16 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 #Education
 #Work Experience
 #Project
 #Licenses & certifications
 #Skills
 
-* **Education**
+{% include base_path %}
+
+
+**Education**
 ======
  * **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - Current)**
 	* Master student in Intelligent Autonomous System
