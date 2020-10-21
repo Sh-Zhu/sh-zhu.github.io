@@ -23,7 +23,7 @@ redirect_from:
 			* Advanced Course in Algorithms: 5/5
 			* Programming Parallel Computers: 5/5
 			* Machine Learning with Python: 5/5
-			* Machine Learning: 4/5
+			* Machine Learning Basic Principles: 4/5
 		* Robotics courses & grades: 
 			* Modelling, Estimation and Dynamic Systems: 5/5 
 			* Digital and Optimal Control: 5/5
@@ -41,11 +41,6 @@ redirect_from:
 ======
 * Android development, Java, Kotlin, Python, TensorFlow, TensorFlow Lite, PyTorch, Matlab
 
-**Licenses & certifications**
-
-
-**Projects**
-======
 
 **Patents**
 ======
