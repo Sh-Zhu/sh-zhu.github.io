@@ -15,11 +15,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Resume"
+  - title: "Education"
     url: /cv/
     
-  - title: "Patents"
-    url: /Patents/
+  - title: "Employment experience"
+    url: /work_exp/
     
 #   - title: "Guide"
 #     url: /markdown/
