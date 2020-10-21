@@ -20,6 +20,10 @@ redirect_from:
 ======
 * **KTH Royal Institute of Technology, Stockholm, Sweden (Aug. 2020 - Current)**
 	* Master student major in Intelligent Autonomous Systems
+	* Courses mainly in Advanced Computer Science:
+		* Scalable Machine Learning and Deep Learning
+		* Reinforcement Learning
+		* Human-Computer Interaction, Research Seminars
 
 * **Aalto University, Espoo, Finland (Aug 2019 - Current)**
 	* Master student major in Intelligent Autonomous Systems, GPA of Major: 4.58/5
