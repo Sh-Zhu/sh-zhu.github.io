@@ -32,7 +32,7 @@ redirect_from:
 	* Fundamentals Computer Science courses: Fundamentals of Programming, Data Structures, Fundamentals of Algorithmic Design, Operating System, Software Engineering, Computer Organization & Architecture and Introduction to Computer Network etc..
 	* Advanced Computer Science courses: Computer Architecture, Principle of Database, Artificial Intelligence and Pattern Recognition. 
 	* Fundamental Mathematics courses: Advanced Mathematics, Geometry & Algebra, Discrete Structure, Probability & Mathematical Statictics, Operations Research etc.
-* **Work experience**
+**Work experience**
 ======
 * **Aalto University, Finland: Research Assistant**
   * Summer 2020
@@ -43,11 +43,12 @@ redirect_from:
   * Jul. 2015 - May. 2018
   * Duties included: Android Application Development && Android Framework Development
   
-* **Skills**
+**Skills**
 ======
 * Android development, Java, Kotlin, Python, TensorFlow, TensorFlow Lite, PyTorch, Matlab
 
-* **Patents**
+**Projects**
+**Patents**
 ======
 
 * **Granted**
